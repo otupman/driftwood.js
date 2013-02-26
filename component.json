@@ -1,0 +1,10 @@
+{
+  "name": "Driftwood.js",
+  "description": "A dirt simple logging framework for Javascript",
+  "version": "0.1",
+  "main": "driftwood.min.js",
+  "author": {
+    "name": "Matt Kanwisher"
+  },
+  "readme": "README.md"
+}
